@@ -1,5 +1,7 @@
 https://ev-market-insight.streamlit.app/
-# âš¡ Electric Vehicle (EV) Market Intelligence Dashboard
+https://public.tableau.com/views/evmarketinghts/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link (for tableau )
+https://drive.google.com/file/d/1emnr7ep01tP3rCN7mNs4AMPhX6erElX-/view?usp=sharing (demo video)
+# âš¡ Electric Vehicle (EV) Market Intelligence Dashboard 
 
 A production-grade, interactive Business Intelligence application built with **Python, Streamlit, Pandas, NumPy, and Plotly** to transform Electric Vehicle (EV) market data (`ev_market_test.csv`, 100,000 records Ã— 37 columns) into executive, competitive, technological, geographic, and sustainability insights.
 
