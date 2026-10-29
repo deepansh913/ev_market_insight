@@ -1,4 +1,4 @@
-https://ev-market-insight.streamlit.app
+https://ev-market-insight.streamlit.app (for website)                                                                                                                                      
 https://public.tableau.com/views/evmarketinghts/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link (for tableau )
 https://drive.google.com/file/d/1emnr7ep01tP3rCN7mNs4AMPhX6erElX-/view?usp=sharing (demo video)
 # âš¡ Electric Vehicle (EV) Market Intelligence Dashboard 
